@@ -1,0 +1,20 @@
+.box {
+  min-height: 10vh !important;
+  display: flex;
+  justify-content: center;
+}
+
+.text {
+  font-family: 'Montserrat-Regular' !important;
+  flex-grow: 1 !important;
+  padding: 1% !important;
+}
+
+@media (max-width: 768px) {
+  .text {
+    font-family: 'Montserrat-Regular' !important;
+    flex-grow: 1 !important;
+    padding: 1% !important;
+    font-size: 20px !important;
+  }
+}

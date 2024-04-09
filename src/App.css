@@ -1,0 +1,11 @@
+/*html {
+    !*background: linear-gradient(250deg, #e8e8e8 40%, #e8e8e8 100%);*!
+    background-image: url("./utils/bg.jpg")
+    !*background: -webkit-radial-gradient(circle farthest-side at center center, #599a00 0%, #3d6901 100%);*!
+    !*background: -moz-radial-gradient(circle farthest-side at center center, #599a00 0%, #3d6901 100%);*!
+    !*background: radial-gradient(circle farthest-side at center center, #599a00 0%, #3d6901 100%);*!
+}*/
+
+html {
+    background: #eee
+}

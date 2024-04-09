@@ -1,0 +1,46 @@
+.box {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.boxInner {
+  text-align: center !important;
+}
+
+.inputField {
+  margin-top: 2vh !important;
+  width: 60% !important;
+}
+
+.inputField label, .inputField p {
+  font-family: 'Montserrat-Regular' !important;
+}
+
+.paper {
+  transition: all 3s ease !important;
+  margin: 1vh;
+  padding: 1vh;
+  width: 60vh !important;
+  min-height: 60vh !important;
+}
+
+.paperAdmin {
+  background-color: #007a80 !important;
+  padding: 0.5vh;
+  min-width: 10% !important;
+  min-height: 30% !important;
+}
+
+.enter {
+  font-size: 30px !important;
+}
+
+.question {
+  margin-top: 5vh;
+  font-size: 20px !important;
+}
+
+.link {
+  text-decoration: none !important;
+}

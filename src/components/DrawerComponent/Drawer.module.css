@@ -1,0 +1,21 @@
+.menu {
+  padding: 10% !important;
+  text-align: center !important;
+  font-size: large !important;
+  background-color: #6a7060 !important;
+  color: white;
+  font-family: 'Montserrat-Regular' !important;
+}
+
+.box {
+  width: 40vh !important;
+}
+
+.link {
+  text-decoration: none;
+  color: black;
+}
+
+.link:visited {
+  color: black;
+}

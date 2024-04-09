@@ -1,0 +1,11 @@
+.button {
+    display: block !important;
+    margin: 3% auto !important;
+    width: auto !important;
+    font-family: 'Montserrat-Regular' !important;
+    background-color: #6a7060 !important;
+}
+
+.button:hover {
+    background-color: #505449 !important;
+}
